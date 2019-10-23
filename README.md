@@ -54,7 +54,7 @@
 
 6、Windows系统下推荐使用Microsoft Office 2019，Adobe PDF reader；
 
-Linux系统下推荐Libreoffice，master of PDF editor；
+Linux系统下推荐WPS for linux ，master of PDF editor；
 
 7、操作系统参数
 
@@ -470,15 +470,16 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 创建项目；
 
 
+# TODO
+
+考虑到模拟题和刷题题库的属性，考虑将除了真题以外的所有题目做成刷题软件，如果需要打印，只需要筛选导出为docx或者PDF即可。
+
+
+
 很幸运我们在此相会，感谢阁下对本资料库的厚爱
 
 如果有任何的建议或者意见，欢迎提出来
 
 同时也欢迎大家更新新版本的资料
-
-
-# TODO 
-
-1、将仓库中的参考书目PDF文件用OCR扫描为可编辑文字，减少文件占用空间；
 
 [回到顶部](#目录)
