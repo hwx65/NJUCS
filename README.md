@@ -252,8 +252,6 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 # 参考教材
 
-![avater](./img/南大计算机招生参考书目.png)
-
 ***从群里搞到的新版参考书目，来源未知***
 
 ![avater](./img/845参考书目.PNG)
@@ -268,15 +266,7 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 重点关注线性表、树、图、排序算法（时间/空间）、AVL树、B树
 
-2、计算机算法——设计与分析导论 (影印版，Computer Algorithms: Introduction to Design and Analysis, 3rd Edition)，Sara Baase, Allen Van Gelder 编著，高等教育出版社 ；
-
-![avater](./img/计算机算法.jpg)
-
-这本书是影印版，全英文，凭借厚度我就知道不要看。当然了，如果时间充裕或者想看一下的可以考虑啃一下，外国的书质量还是可以的。
-
-推荐 黄宇算法教材（从别人经验上看来的）
-
-为什么推荐黄宇呢？
+2、算法设计与分析，黄宇，机械工业出版社；
 
 ![avater](./img/教师.png)
 
