@@ -276,6 +276,12 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 推荐 黄宇算法教材（从别人经验上看来的）
 
+为什么推荐黄宇呢？
+
+![avater](./img/教师.png)
+
+因为黄宇是教这门课的。
+
 重点动态规划、DP问题（背包/换硬币/跳台阶） ***主要是复试时***
 
 剑指offer
@@ -364,6 +370,12 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 ![avater](./img/南京大学-组织机构电话.jpg)
 
 # 参考资料
+
+[1] https://cs.nju.edu.cn/lwz/algorithm/
+
+[2] https://cs.nju.edu.cn/algorithm/slides.html
+
+[3] https://blog.csdn.net/huang1024rui/article/details/49154507
 
 # 更新说明
 
