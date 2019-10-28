@@ -282,9 +282,11 @@ https://github.com/fool2fish/dragon-book-exercise-answers
 
 重点包括：中断、内存管理、PV操作（N生产者N消费者/共浴/理发师）
 
-4、计算机系统基础，袁春风 编著，机械工业出版社 ；
+4、计算机系统基础（第二版），袁春风 编著，机械工业出版社 ；
 
 ![avater](./img/计算机系统基础.jpg)
+
+![avater](./img/计算机系统基础背景.jpg)
 
 同时，配套的习题册，据说会考到。
 
