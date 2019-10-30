@@ -60,6 +60,10 @@ Linux系统下推荐WPS for linux ，master of PDF editor；
 
 ![avater](./img/screenfecth.png)
 
+Office 软件为 WPS for Linux 11.1.0.8865
+
+PDF软件为 master editor of PDF
+
 8、上传速度
 
 ![avater](./img/上传速度.png)
@@ -85,6 +89,8 @@ Linux系统下推荐WPS for linux ，master of PDF editor；
 (2) 优先考虑没有水印，或者水印较少的资料。如果没有其他选择，可以上传带水印或者不清晰的资料；
 
 (3) 暂时还没有想到，因为除了我还没有人添加资料。
+
+11、课后习题答案采用Markdown文件编写，可以导出为PDF打印。
 
 ## 仓库大小
 
