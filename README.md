@@ -7,25 +7,26 @@
 # 目录
 
 1. [说明](#说明)
-2. [联系方式](#联系方式)
-3. [考试相关](#考试相关)
+2. [友情链接](#友情链接)
+3. [联系方式](#联系方式)
+4. [考试相关](#考试相关)
    - [考试时间线](#考试时间线)
    - [845考试调整说明](#845考试调整说明)
    - [复试安排](#复试安排)
-4. [仓库内容](#仓库内容)
+5. [仓库内容](#仓库内容)
    - [录取信息](#0.录取信息)
    - [经验](#1.经验)
    - [初试](#2.初试)
    - [复试](#3.复试)
    - [图片](#img)
-5. [附加资料](#附加资料)
-6. [参考教材](#参考教材)
+6. [附加资料](#附加资料)
+7. [参考教材](#参考教材)
    - [初试](#初试)
    - [复试](#复试)
-7. [其他资料](#其他资料)
-8. [参考资料](#参考资料)
-9. [更新说明](#更新说明)
-10. [TODO](#TODO)
+8. [其他资料](#其他资料)
+9. [参考资料](#参考资料)
+10. [更新说明](#更新说明)
+11. [TODO](#TODO)
 
 
 # 说明
@@ -121,6 +122,33 @@ PDF软件为 master editor of PDF
 3、我在Manjaro Linux 18.1.0下操作github速度还可以，各位自己看着办吧。
 
 没有试过，仅仅是建议。
+
+# 友情链接
+
+1、CS AI 仓库
+
+https://github.com/nju-kaoyan/nju_csai_kaoyan
+
+
+2、计算机网络：自顶向下第七版 英文版 配套PPT资料等
+
+http://www-net.cs.umass.edu/kurose-ross-ppt-7e/
+
+https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed
+
+https://github.com/myk502/Top-Down-Approach
+
+3、计算机网络：自顶向下 第六版 英文版 配套网络
+
+https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
+
+4、复试经验贴
+
+https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
+
+5、龙书答案
+
+https://github.com/fool2fish/dragon-book-exercise-answers
 
 # 联系方式
 
@@ -221,26 +249,6 @@ QQ：1768478912 （往事深处的少年）
 说明文档所需要的图片文件
 
 # 附加资料
-
-## 计算机网络：自顶向下第七版 英文版 配套PPT资料等
-
-http://www-net.cs.umass.edu/kurose-ross-ppt-7e/
-
-https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed
-
-https://github.com/myk502/Top-Down-Approach
-
-## 计算机网络：自顶向下 第六版 英文版 配套网络
-
-https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
-
-## 复试经验贴
-
-https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
-
-## 龙书答案
-
-https://github.com/fool2fish/dragon-book-exercise-answers
 
 ## 刷题软件
 
