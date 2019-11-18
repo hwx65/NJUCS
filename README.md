@@ -253,6 +253,12 @@ QQ：1768478912 （往事深处的少年）
 
 重点关注线性表、树、图、排序算法（时间/空间）、AVL树、B树
 
+视频：
+
+<a href="https://www.bilibili.com/video/av23317136?p=1">数据结构与算法</a>
+
+<a href="https://www.bilibili.com/video/av38920216/">西北大学 - 数据结构 （国家级精品课，好课啊，推荐）</a>
+
 2、算法设计与分析，黄宇，机械工业出版社；
 
 ![avater](./img/教师.png)
@@ -263,11 +269,15 @@ QQ：1768478912 （往事深处的少年）
 
 剑指offer
 
+<a href="https://www.bilibili.com/video/av64662783/">北京大学-算法设计与分析（国家级精品课）</a>
+
 3、操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社；
 
 ![avater](./img/操作系统教程.jpg)
 
 重点包括：中断、内存管理、PV操作（N生产者N消费者/共浴/理发师）
+
+<a href="https://www.icourse163.org/course/NJU-1001571004">计算机操作系统</a>
 
 4、计算机系统基础（第二版），袁春风 编著，机械工业出版社 ；
 
@@ -281,11 +291,25 @@ QQ：1768478912 （往事深处的少年）
 
 关注第2/3/5/7/8章的选择题、第6章的分析应用题
 
+慕课：
+
+<a href="https://www.icourse163.org/course/0809NJU008-1001625001">计算机系统基础(一)：程序的表示、转换与链接</a>
+
+<a href="https://www.icourse163.org/course/0809NJU008B-1001964032">计算机系统基础（二）：程序的执行和存储访问</a>
+
+<a href="https://www.icourse163.org/course/0809NJU008C-1002532004">计算机系统基础(三)：异常、中断和输入/输出</a>
+
+B站也有视频
+
 5、计算机网络——自顶向下方法 (6th)。James F. Kurose, Keith W. Ross编著，机械工业出版社；
 
 ![avater](./img/计算机网络.jpg)
 
 应用层（http）、传输层（TCP）、网络层（IpV4及相关协议）、链路层（以太网）、SSL
+
+<a href="https://www.bilibili.com/video/av41404195?from=search&seid=1062244817660809468">计算机网络（自顶向下方法）</a>
+
+<a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
 
 ## 复试
 
@@ -294,6 +318,12 @@ QQ：1768478912 （往事深处的少年）
 ![avater](./img/离散数学.jpg)
 
 逻辑、计数计术、群论、图论、边收缩、非降路径
+
+<a href="https://www.bilibili.com/video/av66617565?p=1">北京大学-离散数学（国家级精品课）</a>
+
+<a href="https://www.bilibili.com/video/av59326261/">吉林大学-离散数学（国家级精品课）</a>
+
+<a href="https://www.icourse163.org/course/USTB-1206407811">离散数学</a>
 
 2、离散数学及其应用（原书第6版），Rosen，机械工业出版社；
 
@@ -316,6 +346,8 @@ QQ：1768478912 （往事深处的少年）
 DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 ***PPT***
+
+<a href="https://www.bilibili.com/video/av17649289?from=search&seid=7144683529622357495">编译原理（哈工大）</a>
 
 # 其他资料
 
