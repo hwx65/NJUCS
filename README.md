@@ -64,6 +64,12 @@ PDF软件为 master editor of PDF
 
 ![avater](./img/clone.png)
 
+测试日期：2019-11-21
+
+![avater](./img/clone20191121.png)
+
+可以看出第一次下载较慢，第二次下载时就正常了。
+
 8、因为有的PDF文件过大，所以大于30M的文件上传到百度网盘和微云中，有空自取
 
 百度网盘：
