@@ -239,7 +239,9 @@ QQ：1768478912 （往事深处的少年）
 
 具体内容见刷题软件界面。
 
-地址：https://github.com/JackeyLea/NJUCS-exercise
+地址：https://github.com/JackeyLea/NJUCS-exercise 这个仓库包含845专业课题目
+
+地址：https://github.com/JackeyLea/Interview 这个仓库包含C++等语言面试题目等
 
 # 参考教材
 
@@ -314,6 +316,8 @@ B站也有视频
 <a href="https://www.bilibili.com/video/av41404195?from=search&seid=1062244817660809468">计算机网络（自顶向下方法）</a>
 
 <a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
+
+中文版参考答案在这里：<a href="https://github.com/JackeyLea/CN-exercise">CN-exercise</a>
 
 ## 复试
 
